@@ -1,1 +1,1 @@
-web: gunincorn blog_CCVA.wsgi
+web: gunincorn Proyecto_CCVA.blog_CCVA.wsgi
