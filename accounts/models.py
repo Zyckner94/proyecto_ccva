@@ -4,6 +4,6 @@ from django.contrib.auth.models import AbstractUser
 
 
 class User(AbstractUser):
-    """extiende el usuari de Django"""
-    pass
+    """extiende el usuario de Django"""
+    pass 
 
